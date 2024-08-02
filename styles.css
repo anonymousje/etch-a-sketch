@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+
+}
+
+.main{
+    display: flex;
+    gap: 10%;
+}
+body  {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    background-color: darkslategray;
+    
+    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 30vh;
+    width: 30vh;
+    flex-wrap:wrap;
+    
+
+}
